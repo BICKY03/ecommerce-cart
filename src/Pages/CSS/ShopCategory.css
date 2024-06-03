@@ -89,6 +89,7 @@
     }
     .shopcategory-products{
         grid-template-columns: 1fr 1fr;
+        padding-right: 10px;
     }
     .shopcategory-loadmore{
         margin: 60px auto;
